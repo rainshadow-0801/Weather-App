@@ -41,6 +41,6 @@ A simple and responsive Weather App that shows real-time weather information for
 ## 🧑‍💻 Author
 
 **Shreyasi Das**  
-[\[Your GitHub Profile Link\]](https://github.com/rainshadow-0801/Weather-App)
+[\[GitHub Profile Link\]](https://github.com/rainshadow-0801/Weather-App)
 
 ---
